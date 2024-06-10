@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emrsnwslv@gmail.com
+	name = EmersonW Silva
